@@ -17,7 +17,7 @@ plugins:
 
 
 minima:
-  skin: dark
+  skin: classic
   social_links:
     - title: Github repository
       icon: github
