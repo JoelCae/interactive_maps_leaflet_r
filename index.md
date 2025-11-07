@@ -189,7 +189,7 @@ htmlwidgets::saveWidget(map1, "html/map_01.html",
                         title = "G1.Total of veterinary Services in Mexico City",  selfcontained = TRUE)
 ```
 
-<iframe src="https://github.com/JoelCae/interactive_maps_leaflet_r/html/map_01.html" width="100%" height="450">
+<iframe src="https://joelcae.github.io/interactive_maps_leaflet_r/html/map_01.html" width="100%" height="450">
 </iframe>
 
 This map shows the distribution of all veterinary establishments in
@@ -220,7 +220,7 @@ htmlwidgets::saveWidget(map2, "html/map_02.html",
                         title = "G2.veterinary Services in Mexico City",  selfcontained = TRUE)
 ```
 
-<iframe src="https://github.com/JoelCae/interactive_maps_leaflet_r/html/map_02.html" width="100%" height="450">
+<iframe src="https://joelcae.github.io/interactive_maps_leaflet_r/html/map_02.html" width="100%" height="450">
 </iframe>
 
 Finally, I present a cluster map. The clusters are created based on the
@@ -247,7 +247,7 @@ htmlwidgets::saveWidget(map3, "html/map_03.html",
                         title = "G3.veterinary Services in Mexico City",  selfcontained = TRUE)
 ```
 
-<iframe src="https://github.com/JoelCae/interactive_maps_leaflet_r/html/map_03.html" width="100%" height="450">
+<iframe src="https://joelcae.github.io/interactive_maps_leaflet_r/html/map_03.html" width="100%" height="450">
 </iframe>
 
 # Contact me
