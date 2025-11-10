@@ -1,6 +1,7 @@
 Iteractive maps with Leaflet in R
 ================
 Joel Castillo Espinosa
+
 2025/October
 
 # Overview
