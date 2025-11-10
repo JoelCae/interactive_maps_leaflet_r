@@ -6,8 +6,23 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 { /* Linea separa titulos */
   border-bottom: 1px solid #eaecef;
   padding-bottom: 0.3em;
   margin-bottom: 0.8em;
+}
+
+pre, code {
+  background-color: #f6f8fa !important; /* gris claro como GitHub */
+  color: #24292e !important; /* texto gris oscuro */
+}
+
+pre {
+  padding: 0.8em 1em;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+code {
+  border-radius: 4px;
 }
